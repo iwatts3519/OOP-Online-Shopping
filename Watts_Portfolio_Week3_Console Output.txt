@@ -1,0 +1,146 @@
+"C:\Users\iwatt\Anaconda3\envs\CONL704 - Data Structures and Algorithms\python.exe" "C:/Users/iwatt/OneDrive - Glyndwr University/CONL704 - Data Structures and Algorithms/Week 3/PyCharm/Watts_Portfolio_Week3_V3.3.py"
+********** New Staff Member Created **********
+Staff ID is 1
+Name is Ian Watts
+Username is iwatts
+Department is Admin
+Password is password
+Email Address is iwatts@domain.com
+Address is None
+Telephone Number isNone
+
+********** New Staff Member Created **********
+Staff ID is 2
+Name is Gabi
+Username is gwatts
+Department is Stock Control
+Password is password
+Email Address is gabi@domain.com
+Address is None
+Telephone Number isNone
+
+********** New Customer Created **********
+Customer ID is 1
+Name is Emily Watts
+Username is ewatts
+Password is pssword
+Email Address is Emily@domain.com
+Address is None
+Telephone Number is None
+
+********** New Customer Created **********
+Customer ID is 2
+Name is Katie Watts
+Username is kwatts
+Password is password
+Email Address is katie@domain.com
+Address is None
+Telephone Number is None
+
+********** Creating a New Category **********
+
+Please Type category Name Electrical
+********** Creating a New Category **********
+
+Please Type category Name Gardening
+********** Creating a New Item **********
+
+Please enter the name of the item: Monitor
+Please enter a description: Displays Computer Images
+Please enter an image: image_path
+Please enter a price: 129.99
+Please enter a category from ['1 - Electrical', '2 - Gardening'] 1
+Please enter the number of items in stock: 6
+********** Creating a New Item **********
+
+Please enter the name of the item: Lawnmower
+Please enter a description: Cuts Grass
+Please enter an image: image_path
+Please enter a price: 79.99
+Please enter a category from ['1 - Electrical', '2 - Gardening'] 2
+Please enter the number of items in stock: 5
+['1 - Electrical', '2 - Gardening']
+['1 - Monitor', '2 - Lawnmower']
+['1 - Electrical', '2 - Gardening', '3 - Beauty']
+['1 - Monitor', '2 - Lawnmower', '3 - Lipstick']
+********** Stock Control **********
+
+Current Stock Levels for Lipstick are 5
+********** Stock Increased **********
+
+Stock Level is increasing by 1 to 6
+
+********** Stock Decreased **********
+
+Stock Level is decreasing by 2 to 4
+
+********** Payment Type Added **********
+
+********** Payment Type Added **********
+
+********** here is a list of payment types **********
+
+['Mastercard', 'Paypal']
+**************************************************
+
+********** Welcome to Ian's Online Shop **********
+
+**************************************************
+
+Item Number 1: Monitor
+Item Number 2: Lawnmower
+Item Number 3: Lipstick
+What ID Number would you like to add to your basket: 1
+********** Stock Decreased **********
+
+Stock Level is decreasing by 1 to 5
+
+Monitor has been added to your basket
+Your basket total is 129.99
+Would you like to shop some more - Y/N: y
+Item Number 1: Monitor
+Item Number 2: Lawnmower
+Item Number 3: Lipstick
+What ID Number would you like to add to your basket: 1
+********** Stock Decreased **********
+
+Stock Level is decreasing by 1 to 4
+
+Monitor has been added to your basket
+Your basket total is 259.98
+Would you like to shop some more - Y/N: y
+Item Number 1: Monitor
+Item Number 2: Lawnmower
+Item Number 3: Lipstick
+What ID Number would you like to add to your basket: 2
+********** Stock Decreased **********
+
+Stock Level is decreasing by 1 to 4
+
+Lawnmower has been added to your basket
+Your basket total is 339.97
+Would you like to shop some more - Y/N: y
+Item Number 1: Monitor
+Item Number 2: Lawnmower
+Item Number 3: Lipstick
+What ID Number would you like to add to your basket: 3
+********** Stock Decreased **********
+
+Stock Level is decreasing by 1 to 3
+
+Lipstick has been added to your basket
+Your basket total is 344.96
+Would you like to shop some more - Y/N: n
+********** Basket Details **********
+
+Your Basket dated 2020-05-20 has 4 items in it which are
+Monitor
+Monitor
+Lawnmower
+Lipstick
+and the total of the basket is 344.96.
+Please choose a payment method from ['Mastercard', 'Paypal']: Paypal
+You have made a payment of 344.96 using Paypal
+Thank you for shopping with us
+
+Process finished with exit code 0
